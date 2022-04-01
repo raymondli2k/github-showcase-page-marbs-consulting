@@ -1,6 +1,9 @@
-# Actuarial Theory and Practice A
+# Rarita's National Football Team Plan
 
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
+![](Marbs%20Consulting.png)
+
+_MARBS Consulting has been hired to form a competitive international football team for Rarita and to analyse the impact of
+building a football “brand” on the economy_
 
 ---
 
