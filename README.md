@@ -3,7 +3,7 @@
 ![](Marbs%20Consulting.png)
 
 _MARBS Consulting has been hired to form a competitive international football team for Rarita and to analyse the impact of
-building a football “brand” on the economy. We hope to provide insight into our findings through our code and key figures._
+building a football “brand” on the economy. We hope to provide insight into our findings through our code, data and key figures._
 
 ---
 
