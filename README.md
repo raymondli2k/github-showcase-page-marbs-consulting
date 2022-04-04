@@ -12,20 +12,30 @@ building a football “brand” on the economy. We hope to provide insight into 
 ## How did we choose our International Football Team?
 
 please insert short summary here, perhaps include a few important impages ie) tables 
-then embed the data and code used as I have done below 
+then embed the data, code or excel files used as I have done below 
 
 
 ## Probability Ranges of the "Success" being Competitive
 
 please insert short summary here, perhaps include a few important impages ie) tables 
-then embed the data and code used as I have done below 
+then embed the data, code or excel files used as I have done below 
 
+## Spending on Assembling Team
+please insert short summary here, perhaps include a few important impages ie) tables 
+then embed the data, code or excel files used as I have done below 
+
+## Direct Team Revenues
+
+please insert short summary here, perhaps include a few important impages ie) tables 
+then embed the data, code or excel files used as I have done below 
 
 ## The Economic Impact of an International Football Team on Rarita
 
 The impact of the implementation plan on GDP was modelled through linear regression using Year, Household Savings, Revenue and Expenses as predictors. Healthcare was forecasted using an ARIMA (0,1,0) model with drift, while revenue and expenses were forecasted according to benchmark countries:
 
-The data and code used to create these insights can be accessed through these links. 
+The data and [code](Economic_Impact_Code.ipynb) used to create these insights can be accessed here. 
+
+## Impact on Rarita Provinces
 
 ![](gifs/soccer_funny.gif =200x100)
 
