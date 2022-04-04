@@ -1,11 +1,33 @@
 # Rarita's National Football Team Plan
 
-![](Marbs%20Consulting.png)
+![](Marbs%20Consulting.png =250x187)
 
 _MARBS Consulting has been hired to form a competitive international football team for Rarita and to analyse the impact of
-building a football “brand” on the economy_
+building a football “brand” on the economy. We hope to provide insight into our findingd through our code and key figures_
 
 ---
+
+![](gifs/goal.gif =200x100)
+
+## How did we choose our International Football Team?
+
+please insert short summary here, perhaps include a few important impages ie) tables 
+then embed the data and code used as I have done below 
+
+
+## Probability Ranges of the "Success" being Competitive
+
+please insert short summary here, perhaps include a few important impages ie) tables 
+then embed the data and code used as I have done below 
+
+
+## The Economic Impact of an International Football Team on Rarita
+
+The impact of the implementation plan on GDP was modelled through linear regression using Year, Household Savings, Revenue and Expenses as predictors. Healthcare was forecasted using an ARIMA (0,1,0) model with drift, while revenue and expenses were forecasted according to benchmark countries:
+
+The data and code used to create these insights can be accessed through these links. 
+
+![](gifs/soccer_funny.gif =200x100)
 
 ### Congrats on completing the [2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/)!
 

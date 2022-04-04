@@ -146,7 +146,7 @@ pacf(Health_R, plot = T, main = "PACF Plot of Healthcare Spending", xaxt="n")
 # arima(0,1,0) with drirft
 fit_health_r<-auto.arima(Health_R)
 
-#
+# plot fitted model
 residuals_health_r <- residuals(fit_health_r)
 fitted_health_r <- Health_R - residuals_health_r
 ts.plot(Health_R, main="Healthcare Spending vs Fitted Healthcare Spending")
